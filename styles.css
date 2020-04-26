@@ -1,0 +1,58 @@
+body {
+  margin:0;
+  margin-top:0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin-top:0;
+  font-family: 'Sacramento', cursive;
+}
+
+p{
+  font-family: 'Montserrat Alternates', sans-serif
+}
+
+.rahul{
+  position: relative;
+}
+
+.top-div {
+  background-color: #c2f0fc;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.cloud1{
+  position: absolute;
+  padding-top: 0;
+  margin-top: 40px;
+  margin-left: 400px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+  margin-bottom: 0;
+  width: 60%;
+
+
+}
+
+.middle-div {
+  background-color: #ffbcbc;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-div{
+  background-color: #f4e04d;
+  width: 200px;
+  height: 200px;
+}
