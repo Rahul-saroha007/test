@@ -65,13 +65,19 @@ p{
 }
 
 .middle-div {
-  background-color: #ffbcbc;
+
+}
+
+.profile-pic1{
   width: 200px;
   height: 200px;
 }
 
+.coding-skill{
+  width: 250px;
+  height: 250px;
+}
+
 .bottom-div{
-  background-color: #f4e04d;
-  width: 200px;
-  height: 200px;
+
 }
