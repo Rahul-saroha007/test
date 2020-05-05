@@ -5,7 +5,7 @@ body {
 
 
 #title {
-  background-color: #ff4c68;
+  background-color: #900c3f;
   color: #fff;
 }
 
@@ -61,6 +61,22 @@ p {
   position: absolute;
   right: 20%;
 }
+
+/* contact form */
+.shake{
+  margin-right:10%;
+  margin-top: 5%;
+}
+
+.title-contact-form{
+  width: 70%;
+  position: absolute;
+  /* margin-right:1%;
+  margin-top: 10%;  */
+
+}
+
+/* contact form end*/
 
 /* features */
 #features {
